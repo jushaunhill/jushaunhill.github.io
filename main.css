@@ -1,0 +1,10 @@
+body {
+  background-color:orange;
+}
+p{ font-weight:900;
+font-size:10px;
+  padding:15px;
+  border-color:rgb(255,0,183);
+  text-indent:2em;
+  border-width:medium;
+}
